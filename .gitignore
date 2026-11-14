@@ -1,0 +1,19 @@
+# Maven build
+target/
+
+# NetBeans private settings
+nbproject/private/
+
+# macOS
+.DS_Store
+
+# Passwords and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Local database backups
+*.sql
+*.sql.gz
